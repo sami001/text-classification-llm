@@ -1,0 +1,8 @@
+torch
+torchvision
+setuptools
+scikit-learn
+datasets
+accelerate
+hf-transfer
+transformers
