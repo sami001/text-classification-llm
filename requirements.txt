@@ -6,3 +6,7 @@ datasets
 accelerate
 hf-transfer
 transformers
+ipywidgets
+einops
+transformers_stream_generator
+peft
